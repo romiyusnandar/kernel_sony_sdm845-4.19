@@ -1,0 +1,9 @@
+# Telegram Bot Configuration
+# Your Telegram Bot Token
+export TELEGRAM_BOT_TOKEN="1234567890:ABCdefGHIjklMNOpqrsTUVwxyz"
+
+# Your Telegram Chat ID (can be your personal ID or group ID)
+export TELEGRAM_CHAT_ID="123456789"
+
+# Enable Telegram notifications (true/false)
+export ENABLE_TELEGRAM="true"
